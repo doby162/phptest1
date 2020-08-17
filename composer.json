@@ -1,0 +1,5 @@
+{
+    "require": {
+        "axllent/simplehtmldom": "^1.6"
+    }
+}
